@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: lumen's blog
 subtitle:
-description:
-author: John Doe
+description:this is a blog for test travis ci
+author: lumen82
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lumen.github.io
+url: http://lumen.github.io/blog
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
