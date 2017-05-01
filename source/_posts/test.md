@@ -9,6 +9,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ``` bash
 this is a test of the travis ci
+change _config.yml 修改 url 
 $ hexo new "My New Post"
 ```
 
