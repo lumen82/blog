@@ -5,10 +5,10 @@
 # Site
 title: lumen's blog
 subtitle:
-description:this is a blog for test travis ci
-author:lumen82
-language:
-timezone:
+description: this is a blog for test travis ci
+author: lumen82
+language: zh-Hans
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
