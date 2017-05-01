@@ -27,4 +27,4 @@ branches:
     - blog-source
 env:
  global:
-   - GH_REF: github.com:lumen82/blog.git
+   - GH_REF: github.com/lumen82/blog.git
